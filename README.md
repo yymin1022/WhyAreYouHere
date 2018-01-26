@@ -22,6 +22,12 @@ Code로 사람과 세상을 Connect 하다.
 
 ![Search&List](./ScreenShots/ScreenShot_Search&List.png)
 
+조건(대중교통, 종류 등)에 따른 물품 검색 및 조회
+
 ![Detail](./ScreenShots/ScreenShot_Detail.png)
 
+물품 상세 정보 및 사진 확인
+
 ![Info](./ScreenShots/ScreenShot_Info.png)
+
+분실물 관련 정보 확인
