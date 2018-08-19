@@ -18,7 +18,7 @@ Code로 사람과 세상을 Connect 하다.
 
 강민서 - 프로그래밍, 디자인
 
-#스크린샷
+# 스크린샷
 
 ![Search&List](./ScreenShots/ScreenShot_Search&List.png)
 
