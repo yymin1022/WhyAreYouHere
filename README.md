@@ -1,5 +1,9 @@
 # 너 왜 거기있어 : Why are you Here?
 
+<img src="Images/app_1.jpg" width="30%" height="30%" alt="Screenshot"></img>
+<img src="Images/app_2.jpg" width="30%" height="30%" alt="Screenshot"></img>
+<img src="Images/app_3.jpg" width="30%" height="30%" alt="Screenshot"></img>
+
 > 2017 서울시 앱공모전 예선 당선작
 >
 > 서울시 대중교통 분실물 조회 및 검색 애플리케이션
@@ -21,17 +25,3 @@
 # 개발기간
 
 > 2017년 6월 ~ 2017년 10월
-
-# 스크린샷
-
-> ![Search&List](./ScreenShots/ScreenShot_Search&List.png)
->
-> 조건(대중교통, 종류 등)에 따른 물품 검색 및 조회
-
-> ![Detail](./ScreenShots/ScreenShot_Detail.png)
->
-> 물품 상세 정보 및 사진 확인
-
-> ![Info](./ScreenShots/ScreenShot_Info.png)
->
-> 분실물 관련 정보 확인
