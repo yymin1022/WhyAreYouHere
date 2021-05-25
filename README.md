@@ -1,8 +1,8 @@
 # 너 왜 거기있어 : Why are you Here?
 
-<img src="Images/app_1.jpg" width="30%" height="30%" alt="Screenshot"></img>
-<img src="Images/app_2.jpg" width="30%" height="30%" alt="Screenshot"></img>
-<img src="Images/app_3.jpg" width="30%" height="30%" alt="Screenshot"></img>
+<img src="Images/app_1.png" width="30%" height="30%" alt="Screenshot"></img>
+<img src="Images/app_2.png" width="30%" height="30%" alt="Screenshot"></img>
+<img src="Images/app_3.png" width="30%" height="30%" alt="Screenshot"></img>
 
 ### 2017 서울시 앱공모전 예선 당선작
 
